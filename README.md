@@ -1,6 +1,6 @@
 
 # 🚀 **Projet Python-AWS-Lambda** 🐍  
-**Étudiants ayant bossé arduement sur le projet** :  
+**Étudiants** :  
 **Kevin LABATTE**, **Hamza Idb**  
 
 ---
