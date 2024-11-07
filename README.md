@@ -7,12 +7,17 @@
 
 ## 📋 **Notes** 📝
 
-Hey Alex ! Après beaucoup d'efforts et de tests, le rendu n'a pas vraiment beaucoup avancé, mais voici ce que le projet contient jusqu'à maintenant :
+Hey Alex !
+
+le projet contient :
 
 - ✅ **Lambda GET** : Permet de récupérer les informations d'un utilisateur via une requête GET.
 - ✅ **Lambda CREATE** : Permet de créer un utilisateur via une requête POST.
 - ✅ **POST pour la création** : Implémentation d'un POST pour créer un utilisateur.
 - ✅ **Affichage des ID et emails depuis AWS** : Récupération et affichage des ID et emails d'utilisateurs depuis DynamoDB (référez-vous au screen pour voir l'ajout effectué depuis la console AWS).
+
+- url : https://u32sgtzygj.execute-api.eu-west-3.amazonaws.com/dev/users/{userId}
+- url : https://u32sgtzygj.execute-api.eu-west-3.amazonaws.com/dev/createUser
 
 ---
 
